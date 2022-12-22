@@ -36,9 +36,6 @@ public class Main {
         }
     }
 
-    public static void writeResultToFile (HashSet<Integer> result){
-
-    }
 
     static PrintWriter openFileForWriteLine(Scanner scr) {
 
